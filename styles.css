@@ -1,0 +1,64 @@
+
+body {
+  background: #36486b;
+  color: #fff;
+  font-family: Helvetica, Arial;
+  font-size: 27px;
+  font-weight: 300;
+  line-height: 1.65em;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 40px 10px;
+}
+body {
+  background-image: url("pics/auburn.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 100px;
+  background-attachment: fixed;
+}
+
+/* Heading Styles */
+h1 {
+  font-size: 60px;
+  color: #ff3800;
+  text-align: center;
+}
+h2 {
+  font-size: 60px;
+  color: #fff;
+  text-align: center;
+}
+h3 {
+  font-size: 60px;
+  color: #ff8300;
+  text-align: center;
+}
+
+#example1 {
+  border: 2px solid black;
+  padding: 25px;
+  background: url(cap.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Game Directions */
+.description {
+  text-align: center;
+  margin: 80px auto 40px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+
+
+
+
+</Body>
